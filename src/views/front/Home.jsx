@@ -5,7 +5,7 @@ function Home() {
     <>
       <div className="hero-container">
         <img
-          src="rachel-park-hrlvr2ZlUNk-unsplash.jpg"
+          src={`${import.meta.env.BASE_URL}rachel-park-hrlvr2ZlUNk-unsplash.jpg`}
           alt="hero"
           className="hero-image"
         />
