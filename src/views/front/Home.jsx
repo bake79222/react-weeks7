@@ -5,7 +5,7 @@ function Home() {
     <>
       <div className="hero-container">
         <img
-          src="src/assets/rachel-park-hrlvr2ZlUNk-unsplash.jpg"
+          src="rachel-park-hrlvr2ZlUNk-unsplash.jpg"
           alt="hero"
           className="hero-image"
         />
